@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerson</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Company Hero](https://companyhero.com)
+- 🔭 I’m currently working at [Company Hero](https://companyhero.com)
 
 - 👨‍💻 My personal website are available at [https://emersongoncalves.dev.br](https://emersongoncalves.dev.br)
 
