@@ -7,7 +7,7 @@
 
 - 👨‍💻 My personal website are available at [https://emersongoncalves.dev.br](https://emersongoncalves.dev.br)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web and Mobile Development**
 
 - 📫 How to reach me **emerson.u.g@gmail.com**
 
