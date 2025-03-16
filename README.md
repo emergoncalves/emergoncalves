@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [Company Hero](https://companyhero.com)
 
-- 🌱 I’m currently learning **React Native, Cypress and English**
-
 - 👨‍💻 My personal website are available at [https://emersongoncalves.dev.br](https://emersongoncalves.dev.br)
 
 - 💬 Ask me about **Web and Mobile Development**
